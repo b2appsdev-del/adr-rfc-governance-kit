@@ -1,0 +1,11 @@
+{
+  "id": "adr-rfc-governance-kit",
+  "name": "ADR & RFC Architecture Decision Governance Kit",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Deterministic MADR 3.0 & RFC governance linter, lifecycle transition engine, superseding-chain auditor, and Architecture Decision Matrix generator.",
+  "author": "B2Apps",
+  "authorUrl": "https://github.com/b2appsdev-del",
+  "fundingUrl": "https://b2apps.lemonsqueezy.com/buy/adr-rfc-governance-kit",
+  "isDesktopOnly": false
+}
