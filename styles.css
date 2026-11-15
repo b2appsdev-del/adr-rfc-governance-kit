@@ -1,0 +1,23 @@
+/* ADR & RFC Architecture Decision Governance Kit — Obsidian Theme-Aware Styles */
+.adr-governance-badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 0.8em;
+  font-weight: 600;
+  background-color: var(--background-modifier-hover);
+  color: var(--text-normal);
+}
+.adr-governance-badge.status-accepted {
+  background-color: rgba(16, 185, 129, 0.18);
+  color: #10b981;
+}
+.adr-governance-badge.status-proposed {
+  background-color: rgba(245, 158, 11, 0.18);
+  color: #f59e0b;
+}
+.adr-governance-badge.status-deprecated {
+  background-color: rgba(239, 68, 68, 0.18);
+  color: #ef4444;
+}
